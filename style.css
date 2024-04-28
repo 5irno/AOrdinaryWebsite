@@ -1,5 +1,9 @@
 body {
   background-color: pink;
+  background-image: url('whitebackground.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 h1 {
   color: blue;
